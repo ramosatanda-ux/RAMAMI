@@ -640,7 +640,7 @@ document.addEventListener("DOMContentLoaded", function () {
       message += "━━━━━━━━━━━━━━━%0A";
       message += "💵 TOTAL : " + total.toFixed(0) + " FCFA";
 
-      window.open("https://wa.me/2250595726759?text=" + message);
+      window.open("https://wa.me/2250150345214?text=" + message);
 
       cart = [];
       deliveryFee = 0;
